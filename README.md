@@ -1,1 +1,1 @@
-# Shablon-coding
+# Shablon-coding / C++ MFC
